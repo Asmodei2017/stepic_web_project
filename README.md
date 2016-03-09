@@ -1,4 +1,6 @@
-# stepic_web_projectFor start ->
+# stepic_web_project
+
+For start ->
 
 sudo /etc/init.d/nginx start
 ps -o pid,euser,egroup,comm,args -C nginx
